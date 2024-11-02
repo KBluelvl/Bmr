@@ -3,6 +3,16 @@ The BMR project in JavaFX is a simple application designed to calculate the Basa
 
 This is a school project, and the project is written in French.
 
+### Project Structure
+
+The application follows the MVC (Model-View-Controller) architectural pattern:
+
+- **Model**: Handles the data and logic for calculating BMR and adjusting for activity levels.
+
+- **View**: Created with JavaFX, it provides an interactive and user-friendly graphical interface, allowing users to input their data and view results directly.
+
+- **Controller**: Manages communication between the Model and the View, coordinating inputs and outputs.
+
 ### BMR Calculation
 
 The calculation of **BMR (Basal Metabolic Rate)** is based on a different formula depending on the user's gender:
