@@ -5,7 +5,7 @@ This is a school project, and the project is written in French.
 
 ### Project Structure
 
-The application follows the MVC (Model-View-Controller) architectural pattern:
+The application follows the **MVC (Model-View-Controller)** architectural pattern:
 
 - **Model**: Handles the data and logic for calculating BMR and adjusting for activity levels.
 
